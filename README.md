@@ -56,6 +56,8 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
   <img src="https://img.shields.io/badge/LinkedIn-Jhenyffer%20Ribeiro-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+
+![Snake animation](https://github.com/jhenyferris/snake-2D/blob/output/github-contribution-grid-snake.svg)
 ---
 
 Obrigada por visitar meu perfil 💻✨
