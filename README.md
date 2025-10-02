@@ -5,8 +5,6 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 
 ---
 
-<div align="center">
-
 ### 🎯 Sobre mim
 
 🔭 Trabalhando em: pequenos sistemas em Python para automação e gestão  
@@ -37,32 +35,27 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 
 ### 🛠️ Tecnologias que uso
 
-<div align="center">
-  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
-</div>
+<img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
 
 ---
 
 ### 📬 Como me encontrar
 
-<div align="center">
-  <a href="mailto:jhenyfferribeiro342@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jhenyfferribeiro342%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jhenyffer-ribeiro-14b3b1341">
-    <img src="https://img.shields.io/badge/LinkedIn-Jhenyffer%20Ribeiro-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
-</div>
+<a href="mailto:jhenyfferribeiro342@gmail.com">
+  <img src="https://img.shields.io/badge/Email-jhenyfferribeiro342%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/jhenyffer-ribeiro-14b3b1341">
+  <img src="https://img.shields.io/badge/LinkedIn-Jhenyffer%20Ribeiro-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
 
 Obrigada por visitar meu perfil 💻✨
+
 
