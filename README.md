@@ -57,10 +57,6 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 </a>
 
 
-![Snake animation](https://github.com/jhenyfferibeiro342-jpg/jhenyfferibeiro342-jpg/blob/output/github-contribution-grid-snake.svg)
-
-
-Obrigada por visitar meu perfil 💻✨
 
 
 Obrigada por visitar meu perfil 💻✨
