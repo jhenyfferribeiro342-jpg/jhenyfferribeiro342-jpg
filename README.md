@@ -7,14 +7,14 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 
 ### 🎯 Sobre mim
 
-🔭 Trabalhando em: pequenos sistemas em Python para automação e gestão  
-🌱 Estudando: lógica de programação, Git e desenvolvimento web  
-👯 Colaborando em: projetos educacionais e ideias criativas com Python  
-🤝 Buscando ajuda com: organização de código e estrutura de repositórios  
-💬 Me pergunte sobre: meus projetos ou como estou aprendendo programação do zero  
-📫 Contato: jhenyfferribeiro342@gmail.com  
-😄 Pronomes: ela/dela  
-⚡ Curiosidade: adoro transformar ideias simples em códigos úteis — com criatividade!
+- 🔭 Trabalhando em: pequenos sistemas em Python para automação e gestão  
+- 🌱 Estudando: lógica de programação, Git e desenvolvimento web  
+- 👯 Colaborando em: projetos educacionais e ideias criativas com Python  
+- 🤝 Buscando ajuda com: organização de código e estrutura de repositórios  
+- 💬 Me pergunte sobre: meus projetos ou como estou aprendendo programação do zero  
+- 📫 Contato: jhenyfferribeiro342@gmail.com  
+- 😄 Pronomes: ela/dela  
+- ⚡ Curiosidade: adoro transformar ideias simples em códigos úteis — com criatividade!
 
 ---
 
@@ -35,13 +35,15 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 
 ### 🛠️ Tecnologias que uso
 
-<img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
+<p>
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
+</p>
 
 ---
 
@@ -57,5 +59,6 @@ Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa
 ---
 
 Obrigada por visitar meu perfil 💻✨
+
 
 
