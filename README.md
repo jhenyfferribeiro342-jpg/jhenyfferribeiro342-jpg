@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou jhenyfferribeiro342-jpg
 
 ✨ Welcome to my GitHub profile!  
-I'm Jhenyffer Ribeiro, a curious and creative mind exploring o mundo da programação e tecnologia.
+Sou Jhenyffer Ribeiro, estudante de Ciência da Computação, curiosa e criativa, explorando o mundo da programação e tecnologia.
 
 ---
 
@@ -12,7 +12,7 @@ I'm Jhenyffer Ribeiro, a curious and creative mind exploring o mundo da programa
 🔭 Trabalhando em: pequenos sistemas em Python para automação e gestão  
 🌱 Estudando: lógica de programação, Git e desenvolvimento web  
 👯 Colaborando em: projetos educacionais e ideias criativas com Python  
-🤔 Buscando ajuda com: organização de código e estrutura de repositórios  
+🤝 Buscando ajuda com: organização de código e estrutura de repositórios  
 💬 Me pergunte sobre: meus projetos ou como estou aprendendo programação do zero  
 📫 Contato: jhenyfferribeiro342@gmail.com  
 😄 Pronomes: ela/dela  
@@ -37,24 +37,28 @@ I'm Jhenyffer Ribeiro, a curious and creative mind exploring o mundo da programa
 
 ### 🛠️ Tecnologias que uso
 
-<img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
+<div align="center">
+  <img alt="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="HTML" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="Chakra UI" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chakraui/chakraui-original.svg" />
+</div>
 
 ---
 
 ### 📬 Como me encontrar
 
-<a href="mailto:jhenyfferribeiro342@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jhenyfferribeiro342%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/jhenyffer-ribeiro-14b3b1341">
-  <img src="https://img.shields.io/badge/LinkedIn-Jhenyffer%20Ribeiro-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+<div align="center">
+  <a href="mailto:jhenyfferribeiro342@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jhenyfferribeiro342%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jhenyffer-ribeiro-14b3b1341">
+    <img src="https://img.shields.io/badge/LinkedIn-Jhenyffer%20Ribeiro-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 </div>
 
